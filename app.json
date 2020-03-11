@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "All in One Shopping App - Online India",
+    "description": "All in One Shopping App India 2019 Howdy Online shoppers? Hope everything good.",
+    "slug": "All_in_One_Shopping_App_Online_India",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#823282"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "icon": "./assets/icon.png",
+      "package": "com.AllInOneShoppingApp.AllinOneShoppingAppOnlineIndia"
+    }
+  }
+}
